@@ -1,4 +1,1 @@
-gremlinpython
-tornado
-sparqlwrapper
-spacy
+pyjokes
